@@ -153,6 +153,5 @@ Run:
 
 # Thank you
 
-https://github.com/ardian/speaking/oscal-2017
-
+https://github.com/ardian/speaking/tree/master/oscal-2017
 
